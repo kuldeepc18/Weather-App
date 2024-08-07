@@ -34,6 +34,3 @@ The project is organized into the following files:
 * `index.html`: Contains the HTML structure of the app.
 * `style.css`: Styles the app's appearance.
 * `script.js`: Contains the JavaScript logic for fetching weather data, updating the UI, and handling user interactions.
-
-### API Key
-To use this app, you'll need to replace the placeholder API key in the `script.js` file with your own OpenWeatherMap API key.
